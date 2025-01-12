@@ -1,5 +1,7 @@
 # File Rename Manager
 
+[English](README.md) | [简体中文](README_CN.md)
+
 A GUI tool for batch renaming files and folders with support for recursive operations.
 
 ## Features
