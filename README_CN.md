@@ -36,7 +36,7 @@ python rename_manager_gui.py
 
 ## 系统要求
 
-- Python 3.x
+- Python 3.12.0
 - tkinter（通常随Python一起安装）
 
 ## 许可证
