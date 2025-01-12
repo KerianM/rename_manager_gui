@@ -36,7 +36,7 @@ python rename_manager_gui.py
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12.0
 - tkinter (usually comes with Python)
 
 ## License
